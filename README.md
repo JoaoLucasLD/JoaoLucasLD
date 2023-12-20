@@ -7,7 +7,7 @@
 
 - Atualmente, estudo/trabalho com **Vue, Vuetify, Cloud Functions do Firebase**
 
-- Tenho interesse em aprender **Inteligência Artificial, Frameworks JS como NuxtJS e Angular, Automação e Devops**
+- Tenho interesse em aprender **Inteligência Artificial, Automação, Devops e Frameworks JS como NuxtJS e Angular.**
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
