@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é João Lucas!</h1>
-<h3 align="center">Sou um estudante de Sistemas de Informação que está estudando para virar um desenvolvedor full-stack!</h3>
+<h3 align="center">Curso Sistemas de Informação e estou estudando para virar um desenvolvedor full-stack!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaolucasld&label=Profile%20views&color=0e75b6&style=flat" alt="joaolucasld" /> </p>
 
