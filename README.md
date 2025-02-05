@@ -5,7 +5,7 @@
 
 
 
-- Atualmente estou estudante React Native.
+- Atualmente estou estudando React Native.
 
 - Tenho interesse em aprender **Inteligência Artificial, Automação, Devops e Frameworks JS como NuxtJS e Angular.**
 
