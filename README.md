@@ -5,7 +5,7 @@
 
 
 
-- Atualmente, estudo/trabalho com **Vue, Vuetify, Cloud Functions do Firebase**
+- Atualmente estou estudante React Native.
 
 - Tenho interesse em aprender **Inteligência Artificial, Automação, Devops e Frameworks JS como NuxtJS e Angular.**
 
